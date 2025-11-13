@@ -1,0 +1,11 @@
+,Name,Address,Age,Dept,Domain,Basic,HRA,DA,GP
+Emp1,X,Bengaluru,40,HR,HR,25000,7500,5000,37500
+Emp2,Y,Mumbai,50,IT Services,PSS,45000,13500,9000,67500
+Emp3,Z,Chennai,45,Products,Product,28000,10500,7000,52500
+Emp4,G,Hyderabad,55,Strategy,Product,35000,15000,10000,75000
+Emp5,U,China,27,IT Services,PSS,32000,9600,6400,48000
+Emp6,W,Singapore,35,IT Services,PSS,28000,8400,5600,42000
+Emp7,R,California,21,IT Services,PSS,31000,9300,6200,46500
+Emp8,S,Tokyo,42,Products,Product,41000,12300,8200,61500
+Emp9,O,Malaysia,52,,Product,54000,16200,10800,81000
+Emp10,L,Houston,37,IT Services,PSS,60000,18000,12000,90000
